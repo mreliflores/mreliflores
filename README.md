@@ -5,8 +5,12 @@ In my profile you'll find from Frontend development until Data Science projects,
 
 - eli1998flores@gmail.com
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python&color=%23ffee00)
+![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker&color=%23aaee)
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&color=%23777)
+![Pandas](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&color=%23339)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&color=%23ccccee)
+![PowerBi](https://img.shields.io/badge/powerbi-white?style=for-the-badge&logo=powerbi&color=%23888)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
